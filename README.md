@@ -4,6 +4,7 @@ Disini saya akan menjelaskan bagaimana cara membuat HTML dasar.
 ![Screenshot (32)](https://user-images.githubusercontent.com/101470912/158065123-9f551cce-fc76-4983-8dbe-e5e50fb08c2c.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/101470912/158065134-925e7695-e988-4b77-84de-932b54a6919a.png)
 1.pertama masukan Code seperti dibawah ini
+
 2.lalu saya juga menambahkan code untuk isi paragraf HTML
 ![Screenshot (39)](https://user-images.githubusercontent.com/101470912/158065287-92c12863-2a99-4479-99cb-b2ec875b5ccb.png)
 dan ini lah hasil tampilan dari code tersebut
